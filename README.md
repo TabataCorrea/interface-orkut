@@ -23,7 +23,7 @@
 <h1 align=center>👨‍💻Instrutor</h1>
 
 ## ❤️ Agradeço IMENSAMENTE por todas as pérolas de conhecimento compartilhadas:
-- [Porfessor Felipe 🏆](https://github.com/felipeAguiarCode)
+- [Professor Felipe 🏆](https://github.com/felipeAguiarCode)
 
 
 <h1 align=center>💻Link das vídeo aulas🎯</h1>
